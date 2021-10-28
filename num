@@ -1,0 +1,2 @@
+20 9,17 * * * who|wc -l >> num;date>>num
+0 */2 * * 1-5 rm -rf/tmp
